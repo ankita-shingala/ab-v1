@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/b2bc982c-e5dd-47e5-80bb-020648e9afc3
+**URL**: https://lovable.dev/projects/2d43e2a2-25d6-447c-be09-fe3113df5abc
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/b2bc982c-e5dd-47e5-80bb-020648e9afc3) and start prompting.
+Simply visit the [Lovable Project](https://lovable.dev/projects/2d43e2a2-25d6-447c-be09-fe3113df5abc) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -52,7 +52,7 @@ npm run dev
 
 ## What technologies are used for this project?
 
-This project is built with:
+This project is built with .
 
 - Vite
 - TypeScript
@@ -62,7 +62,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/b2bc982c-e5dd-47e5-80bb-020648e9afc3) and click on Share -> Publish.
+Simply open [Lovable](https://lovable.dev/projects/2d43e2a2-25d6-447c-be09-fe3113df5abc) and click on Share -> Publish.
 
 ## I want to use a custom domain - is that possible?
 
